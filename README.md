@@ -18,4 +18,6 @@ Name:     Alice
 Account:  ACCT123
 Password: password123
 
+UML Sequence Diagram of Bank Credential Fetcher:
+
 <img width="442" height="373" alt="UML_SEQ drawio" src="https://github.com/user-attachments/assets/6c912abb-3525-497a-bf92-a2cbaba0e322" />
