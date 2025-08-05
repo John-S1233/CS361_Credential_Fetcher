@@ -1,7 +1,7 @@
 # CS361_Credential_Fetcher
 CS361 Bank Credential API
 
-How To use
+##How To use##
 
 Start the server by running python ./fetcher.py
 The test script can be used by running a command of the following form:
