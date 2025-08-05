@@ -1,7 +1,7 @@
 # CS361_Credential_Fetcher
 CS361 Bank Credential API
 
-##How To use##
+#How To use#
 
 Start the server by running python ./fetcher.py
 The test script can be used by running a command of the following form:
@@ -17,3 +17,5 @@ returns a JSON and a HTTP status code (defined in fetcher.py):
 Name:     Alice
 Account:  ACCT123
 Password: password123
+
+<img width="442" height="373" alt="UML_SEQ drawio" src="https://github.com/user-attachments/assets/6c912abb-3525-497a-bf92-a2cbaba0e322" />
